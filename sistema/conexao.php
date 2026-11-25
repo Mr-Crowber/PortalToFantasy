@@ -3,7 +3,7 @@
 $servidorBanco = getenv('DB_HOST') ?: 'localhost';
 $nomeBanco = getenv('DB_NAME') ?: 'FICHA_RPG';
 $usuarioBanco = getenv('DB_USER') ?: 'root';
-$senhaBanco = getenv('DB_PASS') ?: 'ili50';
+$senhaBanco = getenv('DB_PASS') ?: '';
 $codificacao = 'utf8mb4';
 
 $enderecoBanco = "mysql:host={$servidorBanco};dbname={$nomeBanco};charset={$codificacao}";
