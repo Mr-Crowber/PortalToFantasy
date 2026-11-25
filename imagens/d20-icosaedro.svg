@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Dado de vinte faces, um icosaedro">
+<ellipse cx="103" cy="171" rx="58" ry="9" fill="#1b2118" opacity=".23"/>
+<path d="M100 16 L177 60 L184 143 L100 184 L16 143 L23 60 Z" fill="none" stroke="#80638f" stroke-width="1.6" opacity=".38"/>
+<polygon points="142.00,124.25 167.96,139.24 167.96,60.76" fill="#2b3c26" stroke="#c3a66e" stroke-width="1.35" stroke-linejoin="round"/>
+<polygon points="100.00,178.47 167.96,139.24 142.00,124.25" fill="#2e4028" stroke="#c3a66e" stroke-width="1.35" stroke-linejoin="round"/>
+<polygon points="100.00,51.50 167.96,60.76 100.00,21.53" fill="#2b3c26" stroke="#c3a66e" stroke-width="1.35" stroke-linejoin="round"/>
+<polygon points="100.00,51.50 100.00,21.53 32.04,60.76" fill="#2b3c26" stroke="#c3a66e" stroke-width="1.35" stroke-linejoin="round"/>
+<polygon points="32.04,139.24 58.00,124.25 32.04,60.76" fill="#364b2f" stroke="#c3a66e" stroke-width="1.35" stroke-linejoin="round"/>
+<polygon points="32.04,139.24 100.00,178.47 58.00,124.25" fill="#374d30" stroke="#c3a66e" stroke-width="1.35" stroke-linejoin="round"/>
+<polygon points="100.00,178.47 142.00,124.25 58.00,124.25" fill="#364b2f" stroke="#c3a66e" stroke-width="1.35" stroke-linejoin="round"/>
+<polygon points="100.00,51.50 32.04,60.76 58.00,124.25" fill="#34482e" stroke="#c3a66e" stroke-width="1.35" stroke-linejoin="round"/>
+<polygon points="100.00,51.50 142.00,124.25 167.96,60.76" fill="#2b3c26" stroke="#c3a66e" stroke-width="1.35" stroke-linejoin="round"/>
+<polygon points="100.00,51.50 58.00,124.25 142.00,124.25" fill="#485d3e" stroke="#b79ac2" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="100.00,61.20 66.40,119.40 133.60,119.40" fill="none" stroke="#d4be91" stroke-width="1.0" opacity=".55"/>
+<path d="M100 16 L177 60 M23 60 L100 16 M16 143 L23 60 M177 60 L184 143" fill="none" stroke="#e0cf9e" stroke-width="1.2" opacity=".5"/>
+<text x="159.3" y="108.1" text-anchor="middle" dominant-baseline="central" font-family="Georgia,serif" font-size="10.5" font-weight="700" fill="#ead8b4" stroke="#35452f" stroke-width=".65" paint-order="stroke" opacity=".88">2</text>
+<text x="100.0" y="142.3" text-anchor="middle" dominant-baseline="central" font-family="Georgia,serif" font-size="10.5" font-weight="700" fill="#ead8b4" stroke="#35452f" stroke-width=".65" paint-order="stroke" opacity=".88">4</text>
+<text x="136.7" y="147.3" text-anchor="middle" dominant-baseline="central" font-family="Georgia,serif" font-size="10.5" font-weight="700" fill="#ead8b4" stroke="#35452f" stroke-width=".65" paint-order="stroke" opacity=".88">6</text>
+<text x="122.7" y="44.6" text-anchor="middle" dominant-baseline="central" font-family="Georgia,serif" font-size="10.5" font-weight="700" fill="#ead8b4" stroke="#35452f" stroke-width=".65" paint-order="stroke" opacity=".88">8</text>
+<text x="136.7" y="78.8" text-anchor="middle" dominant-baseline="central" font-family="Georgia,serif" font-size="10.5" font-weight="700" fill="#ead8b4" stroke="#35452f" stroke-width=".65" paint-order="stroke" opacity=".88">10</text>
+<text x="77.3" y="44.6" text-anchor="middle" dominant-baseline="central" font-family="Georgia,serif" font-size="10.5" font-weight="700" fill="#ead8b4" stroke="#35452f" stroke-width=".65" paint-order="stroke" opacity=".88">12</text>
+<text x="63.3" y="78.8" text-anchor="middle" dominant-baseline="central" font-family="Georgia,serif" font-size="10.5" font-weight="700" fill="#ead8b4" stroke="#35452f" stroke-width=".65" paint-order="stroke" opacity=".88">14</text>
+<text x="40.7" y="108.1" text-anchor="middle" dominant-baseline="central" font-family="Georgia,serif" font-size="10.5" font-weight="700" fill="#ead8b4" stroke="#35452f" stroke-width=".65" paint-order="stroke" opacity=".88">16</text>
+<text x="63.3" y="147.3" text-anchor="middle" dominant-baseline="central" font-family="Georgia,serif" font-size="10.5" font-weight="700" fill="#ead8b4" stroke="#35452f" stroke-width=".65" paint-order="stroke" opacity=".88">18</text>
+</svg>

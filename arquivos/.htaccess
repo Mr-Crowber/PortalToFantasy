@@ -1,0 +1,7 @@
+# Não mostra a lista de arquivos desta pasta.
+Options -Indexes
+
+# Impede que arquivos enviados sejam executados como programas.
+<FilesMatch "\.(php[0-9]?|phtml|phar|cgi|pl|py|sh)$">
+    Require all denied
+</FilesMatch>
